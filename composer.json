@@ -1,8 +1,8 @@
 {
-    "name": "2amigos/yii2-file-upload-widget",
+    "name": "ruvents/yii2-file-upload-widget",
     "description": "Blueimp file upload widget for the Yii framework",
     "keywords": [
-        "2amigos",
+        "ruvents",
         "yii",
         "yii2",
         "yii 2",
@@ -11,17 +11,11 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-file-upload-widget",
+    "homepage": "https://github.com/ruvents/yii2-file-upload-widget",
     "authors": [
         {
-            "name": "Alexander Kochetov",
-            "email": "creocoder@gmail.com",
-            "role": "Developer"
-        },
-        {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
+            "name": "Vera Miroshnichenko",
+            "email": "veramir10@gmail.com",
             "role": "Developer"
         }
     ],
@@ -36,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dosamigos\\fileupload\\": "src"
+            "ruvents\\fileupload\\": "src"
         }
     },
     "extra": {
