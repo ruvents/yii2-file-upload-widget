@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\fileupload;
+namespace ruvents\fileupload;
 
 use yii\web\AssetBundle;
 
